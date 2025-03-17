@@ -20,4 +20,4 @@ Escrever um código onde temos uma conta bancaria que possa realizar as seguinte
 - Caso o limite de cheque especial seja usado, assim que possível a conta deve cobrar uma taxa de 20% do valor usado do cheque especial.
 
 #### Comentários:
-Código implementar em linha de comando.
+Código implementado em linha de comando.
